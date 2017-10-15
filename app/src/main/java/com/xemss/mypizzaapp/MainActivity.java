@@ -49,8 +49,9 @@ public class MainActivity extends Activity {
                 titles
         );
         // TODO: 11.10.2017 set click listener to list item
-
-        drawerList.setOnClickListener(new DrawerItemClickListener());
+        // TODO: 15.10.2017 change
+//        drawerList.setOnClickListener(new DrawerItemClickListener());
+        drawerList.setOnClickListener((View.OnClickListener) new DrawerItemClickListener());
 
         // TODO: 11.10.2017
 //        if (savedInstanceState == null) {
