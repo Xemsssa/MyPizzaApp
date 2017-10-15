@@ -4,4 +4,32 @@
     <string name="action_setting">Setting</string>
     <string name="action_share">Share</string>
     <string name="title_activity_order">Share</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="pizzas">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+    </string-array>
+
+    <string-array name="pasta">
+        <item>Bolognese</item>
+        <item>Lasagne</item>
+    </string-array>
+
+    <string-array name="stores">
+        <item>NY</item>
+        <item>Boston</item>
+    </string-array>
+
+    <string-array name="title">
+         <item>Home</item>
+         <item>Pizza</item>
+         <item>Pasta</item>
+         <item>Stores</item>
+    </string-array>
+
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
 </resources>
